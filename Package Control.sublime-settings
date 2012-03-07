@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": 1330957098,
+	"installed_packages":
+	[
+		"CSS Less(ish)",
+		"Display Functions (Java)",
+		"EncodingHelper",
+		"Jinja2",
+		"nginx",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}

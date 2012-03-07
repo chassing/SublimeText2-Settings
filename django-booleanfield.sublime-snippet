@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.BooleanField(${2:default=True})
+]]></content>
+  <tabTrigger>dfb</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model BooleanField</description>
+</snippet>

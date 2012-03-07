@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.EmailField(verbose_name="${2}")
+]]></content>
+  <tabTrigger>dfe</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model EmailField</description>
+</snippet>

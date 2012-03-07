@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.IntegerField(${2:blank=True, null=Truem }${3:default=0}))
+]]></content>
+  <tabTrigger>dfi</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model IntegerField</description>
+</snippet>

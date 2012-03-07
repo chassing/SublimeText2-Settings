@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.DateTimeField(${2:blank=True, null=True, }${3:auto_now_add=True, }${4:auto_now=True})
+]]></content>
+  <tabTrigger>dft</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model DateTimeField</description>
+</snippet>

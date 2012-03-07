@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.CharField(${2:blank=True, }max_length=${3:254}, ${4:verbose_name="${5}"})
+]]></content>
+  <tabTrigger>dfc</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model CharField</description>
+</snippet>

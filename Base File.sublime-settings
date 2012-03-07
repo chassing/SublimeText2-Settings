@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/CaNet.tmTheme",
+	"ensure_newline_at_eof_on_save": false,
+	"font_size": 12.0,
+	"pep8_ignore":
+	[
+		"E501",
+		"E111",
+		"W293",
+		"W391"
+	],
+	"save_on_focus_lost": true,
+	"sublimelinter_gutter_marks": true,
+	"sublimelinter_popup_errors_on_save": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

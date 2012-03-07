@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:slug} = models.SlugField()
+]]></content>
+  <tabTrigger>dfs</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model SlugField</description>
+</snippet>

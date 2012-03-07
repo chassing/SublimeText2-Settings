@@ -1,0 +1,18 @@
+[
+  // duplicate line
+  { "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+  // gotos
+  { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+  { "keys": ["super+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+  // select word
+  { "keys": ["ctrl+w"], "command": "find_under_expand" },
+  { "keys": ["shift+super+l"], "command": "expand_selection", "args": {"to": "line"} },
+  // convert case
+  { "keys": ["ctrl+u"], "command": "upper_case" },
+  { "keys": ["shift+ctrl+u"], "command": "lower_case" },
+  // indent
+  { "keys": ["super+ä"], "command": "indent" },
+  { "keys": ["super+ö"], "command": "unindent" },
+  // comment
+  { "keys": ["super+alt+7"], "command": "toggle_comment", "args": { "block": false } }
+]

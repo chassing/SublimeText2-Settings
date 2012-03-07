@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.OneToOneField("${2:RELATED_MODEL}"${3:, related_name="${4:RELATED_NAME}"})
+]]></content>
+  <tabTrigger>dfo</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model OneToOneField</description>
+</snippet>

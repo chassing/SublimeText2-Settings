@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:FIELDNAME} = models.ManyToManyField("${2:RELATED_MODEL}")
+]]></content>
+  <tabTrigger>dfm</tabTrigger>
+  <scope>source.python</scope>
+  <description>Model ManyToManyField</description>
+</snippet>
