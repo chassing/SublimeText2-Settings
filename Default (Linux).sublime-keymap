@@ -10,8 +10,8 @@
   { "keys": ["ctrl+u"], "command": "upper_case" },
   { "keys": ["shift+ctrl+u"], "command": "lower_case" },
   // indent
-  { "keys": ["ctrl+'"], "command": "indent" },
-  { "keys": ["ctrl+`"], "command": "unindent" },
+  { "keys": ["ctrl+ä"], "command": "indent" },
+  { "keys": ["ctrl+ö"], "command": "unindent" },
   // comment
   { "keys": ["shift+alt+7"], "command": "toggle_comment", "args": { "block": false } },
   // my commands
