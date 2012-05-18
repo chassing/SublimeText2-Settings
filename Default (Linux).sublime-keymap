@@ -1,2 +1,19 @@
 [
+  // duplicate line
+  { "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+  // gotos
+  { "keys": ["ctrl+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+  { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+  // select word
+  { "keys": ["shift+ctrl+l"], "command": "expand_selection", "args": {"to": "line"} },
+  // convert case
+  { "keys": ["ctrl+u"], "command": "upper_case" },
+  { "keys": ["shift+ctrl+u"], "command": "lower_case" },
+  // indent
+  { "keys": ["ctrl+ä"], "command": "indent" },
+  { "keys": ["ctrl+ö"], "command": "unindent" },
+  // comment
+  { "keys": ["shift+alt+7"], "command": "toggle_comment", "args": { "block": false } },
+  // my commands
+  { "keys": ["ctrl+alt+b"], "command": "rst_bold"}
 ]

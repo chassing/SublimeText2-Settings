@@ -1,0 +1,6 @@
+{
+  "sublimelinter_delay": 0.01,
+  "sublimelinter_fill_outlines": false,
+  "sublimelinter_gutter_marks": true,
+  "sublimelinter_popup_errors_on_save": true
+}
