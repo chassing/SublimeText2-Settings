@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1331627654,
+	"auto_upgrade_last_run": 1337331181,
 	"installed_packages":
 	[
 		"CSS Less(ish)",
 		"Display Functions (Java)",
 		"EncodingHelper",
 		"Jinja2",
+		"LESS",
 		"nginx",
 		"Package Control",
 		"SideBarEnhancements",
