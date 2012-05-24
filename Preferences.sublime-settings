@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/CaNet.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
