@@ -16,5 +16,6 @@
   // comment
   { "keys": ["super+alt+7"], "command": "toggle_comment", "args": { "block": false } },
   // my commands
-  { "keys": ["super+alt+b"], "command": "rst_bold"}
+  { "keys": ["super+alt+b"], "command": "rst_bold"},
+  { "keys": ["ctrl+super+v"], "command": "jinja_var"}
 ]
