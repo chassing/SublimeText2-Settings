@@ -1,6 +1,7 @@
 {
+
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/CaNet.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -36,7 +37,7 @@
 		"CVS",
 		"__pycache__"
 	],
-	"font_size": 12.0,
+	"font_size": 13.0,
 	"highlight_line": false,
 	"ignored_packages":
 	[
