@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1337783859,
+	"auto_upgrade_last_run": 1340776219,
 	"http_proxy": "http://proxy.muc.infineon.com:81",
 	"https_proxy": "http://proxy.muc.infineon.com:81",
 	"installed_packages":
@@ -17,6 +17,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"Tag",
+		"Theme - Soda",
 		"TrailingSpaces",
 		"Twitter Bootstrap Snippets"
 	]
