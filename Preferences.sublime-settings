@@ -1,10 +1,11 @@
 {
-
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/CaNet.tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
+	//"color_scheme": "Packages/User/CaNet.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -29,6 +30,7 @@
 		"*.graffle",
 		"Icon"
 	],
+  "fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
