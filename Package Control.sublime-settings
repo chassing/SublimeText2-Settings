@@ -1,16 +1,24 @@
 {
-	"auto_upgrade_last_run": 1337331181,
+	"auto_upgrade_last_run": 1340776219,
+	"http_proxy": "http://proxy.muc.infineon.com:81",
+	"https_proxy": "http://proxy.muc.infineon.com:81",
 	"installed_packages":
 	[
+		"Alignment",
 		"CSS Less(ish)",
 		"Display Functions (Java)",
+		"Emacs-like Modelines",
 		"EncodingHelper",
 		"Jinja2",
 		"LESS",
 		"nginx",
 		"Package Control",
+		"SFTP",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"TrailingSpaces"
+		"Tag",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Twitter Bootstrap Snippets"
 	]
 }

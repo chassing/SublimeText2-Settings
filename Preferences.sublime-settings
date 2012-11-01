@@ -1,8 +1,44 @@
 {
-	"color_scheme": "Packages/User/CaNet.tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
+	//"color_scheme": "Packages/User/CaNet.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.graffle",
+		"Icon"
+	],
+  "fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
 	"font_size": 13.0,
 	"highlight_line": false,
 	"ignored_packages":
@@ -23,6 +59,7 @@
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
