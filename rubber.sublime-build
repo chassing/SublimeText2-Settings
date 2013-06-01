@@ -1,0 +1,4 @@
+{
+  "cmd": ["rubber", "$file"],
+  "selector": "source.tex"
+}
