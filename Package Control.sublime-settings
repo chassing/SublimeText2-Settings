@@ -4,10 +4,10 @@
 	"https_proxy": "http://proxy.muc.infineon.com:81",
 	"installed_packages":
 	[
-		"Alignment",
+		"AngularJS Attributes Completion",
+		"Creole",
 		"CSS Less(ish)",
 		"Display Functions (Java)",
-		"Emacs-like Modelines",
 		"EncodingHelper",
 		"Jinja2",
 		"LESS",
@@ -17,9 +17,7 @@
 		"RPM Spec Syntax",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"Tag",
-		"Theme - Soda",
-		"TrailingSpaces",
-		"Twitter Bootstrap Snippets"
+		"Theme - Phoenix",
+		"TrailingSpaces"
 	]
 }

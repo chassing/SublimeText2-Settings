@@ -2,6 +2,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/CaNet.tmTheme",
 	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - German/German_de_DE.dic",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -44,21 +45,17 @@
 	[
 		"Vintage"
 	],
-	"pep8_ignore":
-	[
-		"E501",
-		"E111",
-		"W293",
-		"W391"
-	],
+	"phoenix_color_blue": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
 	"rulers":
 	[
 		80
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
-	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
