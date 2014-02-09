@@ -1,5 +1,7 @@
 {
 	"auto_upgrade_last_run": null,
+	"http_proxy": "http://proxy.muc.infineon.com:81",
+	"https_proxy": "http://proxy.muc.infineon.com:81",
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -12,6 +14,8 @@
 		"LESS",
 		"nginx",
 		"Package Control",
+		"Puppet",
+		"RPM Spec Syntax",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"Theme - Phoenix",
